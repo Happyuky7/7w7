@@ -43,9 +43,7 @@ module.exports = (client, message) => {
           +"| Password: Password ✔|"+"\n"
           +"| Login: Verify ✔ |"+"\n"
           +"=========================================="+"\n"
-          +"\n"
-          +"\n"
-          +"c:")
+          +"\n")
 
           .setColor("RANDOM")//Color el Embed Puede ser [Colores HEX](https://htmlcolorcodes.com/es/) O RANDOM
 
