@@ -18,6 +18,15 @@ cd c:\Bots Discord\Bot
 
 @echo ------------------------------------------------
 @echo .
+@echo Selecionamos un titulo para el cmd 
+@echo Ejemplo: Discord BOT
+@echo .
+@echo ------------------------------------------------
+
+title Discord BOT
+
+@echo ------------------------------------------------
+@echo .
 @echo Selecionamos un Color para el cmd
 @echo Esto es Opcional en este caso 0a 
 @echo Verde y negro estilo Hacker.
